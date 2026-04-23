@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hey 👋, I'm Roger 
+  Hey, I'm Roger 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -12,16 +12,6 @@
 🚀 Building scalable apps & real-world projects <br>
 📍 Peru
 </p>
-
----
-
-<p align="center">
-	<a href="https://github.com/RogerDevp">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flutter+%7C+Backend;C%23+%7C+Python+%7C+JavaScript;Building+Real+Apps;Learning+Rust+%26+Java&center=true&width=420&height=45">
-	</a>
-</p>
-
----
 
 ### 🧠 About Me
 
